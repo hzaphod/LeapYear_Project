@@ -16,7 +16,7 @@ $(document).ready(function () {
     if (!result) {
       $(".not").text("not");
     } else {
-      $L(".not").text("");
+      $(".not").text("");
     }
 
     $("#result").show();
